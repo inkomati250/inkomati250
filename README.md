@@ -1,5 +1,5 @@
 
-### Hi there 👋, I'm Ivan Nkomati based in Germany.
+### Hi there 👋, I'm Ivan Nkomati
 #### Expert in IT  , Design and Development
 🚀 Results-oriented full stack developer with 4+ years of experience in developing, testing, and maintaining enterprise applications.
 
